@@ -1,0 +1,9 @@
+-Todo List
+
+-Done Install and setup (Django)
+-Done Install and setup (Vue)
+-Done Include Font Awesome
+-Done Set up the base template
+-Done Create django app and models for products
+-Create serializer and views for the products
+- Create simple front page (latest products)
